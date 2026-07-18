@@ -1,0 +1,312 @@
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  background: white;
+  padding: 40px;
+}
+
+header {
+  background: #0b3d91;
+  color: white;
+  padding: 45px 30px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 20px;
+}
+
+nav {
+  background: #222;
+  padding: 12px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 12px;
+  font-size: 15px;
+}
+
+nav a:hover {
+  color: #ffd700;
+}
+
+h2 {
+  color: #0b3d91;
+  border-bottom: 2px solid #0b3d91;
+  padding-bottom: 8px;
+  margin-top: 40px;
+}
+
+h3 {
+  color: #333;
+  margin-top: 25px;
+}
+
+.box {
+  background: #eef5ff;
+  padding: 20px;
+  border-left: 5px solid #0b3d91;
+  margin: 20px 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.card {
+  background: #f4f4f4;
+  padding: 18px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+footer {
+  margin-top: 40px;
+  background: #222;
+  color:white;
+  padding:20px;
+  text-align:center;
+  font-size:14px;
+}
+
+@media(max-width:700px){
+  .container{
+    padding:20px;
+  }
+
+  header h1{
+    font-size:28px;
+  }
+
+  nav a{
+    display:block;
+    margin:8px;
+  }
+}
+</style>
+
+
+<header>
+<h1>Korean Shipbuilding Industry</h1>
+<p>How Korea's shipbuilding strengths can help MASGA<br>
+Make American Shipbuilding Great Again</p>
+</header>
+
+
+<nav>
+<a href="#intro">Introduction</a>
+<a href="#background">Background</a>
+<a href="#help">How Korea Can Help MASGA</a>
+<a href="#links">Links</a>
+</nav>
+
+
+<div class="container">
+
+<section id="intro">
+<h2>Introduction</h2>
+
+<div class="box">
+South Korea's shipbuilding industry is a global leader known for building complex,
+high-value vessels — including LNG carriers, ultra-large container ships,
+offshore platforms, and increasingly green and autonomous ships.
+</div>
+
+<p>
+Its success rests on deep engineering capabilities, clustered supply chains,
+and continuous investment in research and development.
+</p>
+
+<p>
+This page outlines the industry's background and practical ways Korean shipbuilding
+can support MASGA (Make American Shipbuilding Great Again).
+</p>
+
+</section>
+
+
+
+<section id="background">
+
+<h2>Background</h2>
+
+<p>
+Korea's shipbuilding rise began under strategic industrial policies and investments
+in the 1970s–1990s. Concentrated shipbuilding hubs such as Ulsan, Geoje,
+and Mokpo enabled economies of scale and a dense supplier ecosystem.
+</p>
+
+<p>
+Large private shipyards, supported by coordinated public initiatives,
+focused on high-margin, technology-intensive ships rather than low-cost commodity vessels.
+</p>
+
+
+<ul>
+<li>Industrial clusters connecting yards, suppliers, and research institutions</li>
+<li>Heavy investment in digital design, modular construction, and green propulsion</li>
+<li>Strong export orientation based on long-term contracts with global shipowners</li>
+<li>Integrated supplier networks reducing lead times and controlling costs</li>
+</ul>
+
+</section>
+
+
+
+<section id="help">
+
+<h2>How the Korean Shipbuilding Industry Can Help MASGA</h2>
+
+<p>
+MASGA aims to restore American shipbuilding strength. Korea offers both a strategic
+model and concrete capabilities that can support rebuilding domestic capacity
+through international partnership.
+</p>
+
+
+<div class="card">
+<h3>1. Strategic Technology Partnerships</h3>
+<p>
+Establish bilateral R&D programs and joint ventures with Korean yards to transfer
+advanced hull designs, LNG and alternative-fuel propulsion systems,
+and digital shipbuilding technologies.
+</p>
+</div>
+
+
+<div class="card">
+<h3>2. Modular Construction & Productivity Programs</h3>
+<p>
+Pilot modular block construction projects in U.S. yards under Korean technical guidance.
+Train-the-trainer programs can institutionalize methods that reduce assembly time
+and defects while increasing productivity.
+</p>
+</div>
+
+
+<div class="card">
+<h3>3. Supplier Development & Joint Procurement</h3>
+<p>
+Use Korean experience to identify supplier gaps and develop incentives
+to grow a U.S.-based marine components industry.
+</p>
+</div>
+
+
+<div class="card">
+<h3>4. Workforce Exchange & Training Hubs</h3>
+<p>
+Create exchange programs between Korean vocational institutes and U.S.
+technical colleges to transfer productivity techniques and training models.
+</p>
+</div>
+
+
+<div class="card">
+<h3>5. Green Fleet Transition</h3>
+<p>
+Coordinate on LNG, methanol, ammonia-ready, hybrid-electric, and other
+low-emission vessel technologies to create future opportunities.
+</p>
+</div>
+
+
+<div class="card">
+<h3>6. Policy & Financing Instruments</h3>
+<p>
+Adopt Korea-inspired industrial tools adapted for the U.S. context:
+long-term financing, export credit support, cluster-friendly zoning,
+and procurement guarantees.
+</p>
+</div>
+
+
+<div class="box">
+<strong>Implementation Note:</strong><br>
+Partnerships should protect U.S. industrial base priorities through
+intellectual property rules, phased localization targets, and workforce commitments
+while enabling rapid capability transfer.
+</div>
+
+</section>
+
+
+
+<section id="links">
+
+<h2>Links — Major Korean Shipbuilders & Government Institutions</h2>
+
+
+<div class="card">
+<h3>HD Hyundai Heavy Industries</h3>
+<p>
+Major builder of LNG carriers, tankers, and large container ships.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Samsung Heavy Industries</h3>
+<p>
+Specialist in offshore platforms and complex vessels.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Hanwha Ocean (formerly DSME)</h3>
+<p>
+Known for offshore, naval, and specialized commercial builds.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Ministry of Trade, Industry and Energy (MOTIE)</h3>
+<p>
+Korean government ministry overseeing industrial policy and trade.
+</p>
+</div>
+
+
+<div class="card">
+<h3>KORMARINE</h3>
+<p>
+Korea Marine Equipment Association representing marine equipment
+manufacturers and suppliers.
+</p>
+</div>
+
+
+</section>
+
+
+
+<footer>
+Prepared as an informational page.<br>
+For policy or procurement use, verify details and consult primary sources.<br><br>
+MASGA = Make American Shipbuilding Great Again
+</footer>
+
+
+</div>
